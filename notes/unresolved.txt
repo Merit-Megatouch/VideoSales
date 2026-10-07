@@ -3,5 +3,3 @@
 # (usually in src/host/loader_services.cpp) before the game will start.
 # symbol | needed by
 Mixer() | VideoSales.so
-NetGlobals::NetSpriteUnRegister(NetSprite*, unsigned char) | libmeritbasegame.so
-USBIO::JoystickFound() | libmeritbasegame.so
